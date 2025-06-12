@@ -1,1 +1,3 @@
 # ASHRAE-Mean-Energy
+This project explores building energy consumption prediction using supervised learning models: Linear Regression, Decision Tree, and Random Forest. The dataset comes from the ASHRAE – Great Energy Predictor III competition. I performed data cleaning, preprocessing with LabelEncoder and StandardScaler, and built regression models using scikit-learn. Evaluation was done using RMSE and R² metrics. Tools like pandas, numpy, matplotlib, seaborn, and PrettyTable were used for data handling and visualization. This project was developed as part of my learning in supervised machine learning.
+
